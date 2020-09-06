@@ -1,3 +1,4 @@
 Init successfully!
 This is third version(4.0)
 New license
+Test the storage!
