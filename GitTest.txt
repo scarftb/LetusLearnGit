@@ -1,2 +1,2 @@
 Init successfully!
-This is second version(2.0)
+This is third version(3.0)
