@@ -1,2 +1,2 @@
-This is a git test!
-Good luck!
+Init successfully!
+This is second version(2.0)
